@@ -1,0 +1,12 @@
+{
+  "name": "makefun-worst-monday-20261126",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One funny line about an AI agent worst Monday for make.fun",
+  "license": "MIT",
+  "scripts": {
+    "start": "node main.ts",
+    "test": "node --test main.test.ts"
+  }
+}
